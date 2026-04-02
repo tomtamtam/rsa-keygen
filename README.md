@@ -14,7 +14,7 @@ make
 ```cpp
 ./bin/rsa-keygen
 ```
-With owh **path**:
+With own **path**:
 ```cpp
 ./bin/rsa-keygen ~/keys/test-key
 ```
