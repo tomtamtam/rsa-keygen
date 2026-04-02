@@ -2,7 +2,7 @@
 A demonstratively key-gen for rsa encryption.
 
 ## Build
-dependencies: c++20
+dependencies: c++20 make
 
 ```bash
 git clone https://github.com/tomtamtam/rsa-keygen.git
